@@ -21,6 +21,8 @@ android {
     buildTypes {
         release {
             isMinifyEnabled = false
+            // Signed with the debug key so the APK can be sideloaded as it is. Use your own keystore for a Play Store upload.
+            signingConfig = signingConfigs.getByName("debug")
         }
     }
     compileOptions {
