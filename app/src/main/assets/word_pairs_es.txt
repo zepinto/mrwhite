@@ -1,0 +1,500 @@
+café|té
+pizza|calzone
+hamburguesa|sándwich
+mantequilla|margarina
+mermelada|jalea
+miel|melaza
+leche|nata
+queso|yogur
+pan|tostada
+cruasán|brioche
+tortita|gofre
+dónut|bagel
+bizcocho|tarta
+magdalena|muffin
+galleta|barquillo
+chocolate|caramelo
+helado|sorbete
+sushi|sashimi
+fideos|espaguetis
+arroz|cuscús
+sopa|estofado
+ensalada|ensalada de col
+tortilla francesa|huevos revueltos
+beicon|jamón
+salchicha|perrito caliente
+filete|costillas
+pollo|pavo
+salmón|atún
+gamba|langosta
+ostra|almeja
+manzana|pera
+naranja|mandarina
+limón|lima
+plátano|plátano macho
+fresa|frambuesa
+arándano|mora
+uva|pasa
+melocotón|albaricoque
+sandía|melón
+piña|mango
+almendra|avellana
+nuez|cacahuete
+patata|boniato
+tomate|remolacha
+cebolla|ajo
+zanahoria|rábano
+pepino|calabacín
+brócoli|coliflor
+espinacas|lechuga
+maíz|palomitas
+champiñón|trufa
+aceituna|alcaparra
+kétchup|mostaza
+mayonesa|alioli
+vinagre|salsa de soja
+sal|pimienta
+azúcar|edulcorante
+canela|nuez moscada
+albahaca|perejil
+guindilla|pimentón
+cerveza|sidra
+vino|champán
+whisky|ron
+vodka|ginebra
+cóctel|sangría
+limonada|té helado
+zumo de naranja|zumo de manzana
+cola|agua con gas
+chocolate caliente|batido
+expreso|capuchino
+patatas fritas|nachos
+pretzel|palitos de pan
+burrito|taco
+lasaña|raviolis
+empanadilla|rollito de primavera
+curri|chile con carne
+kebab|gyros
+pudin|natillas
+malvavisco|gominola
+chicle|piruleta
+perro|lobo
+gato|tigre
+león|leopardo
+caballo|burro
+vaca|búfalo
+oveja|cabra
+cerdo|jabalí
+conejo|liebre
+ratón|hámster
+rata|topo
+rana|sapo
+tortuga|galápago
+cocodrilo|caimán
+serpiente|lagarto
+delfín|orca
+tiburón|raya
+foca|morsa
+pulpo|calamar
+cangrejo|langostino
+abeja|avispa
+mariposa|polilla
+hormiga|termita
+mosca|mosquito
+águila|halcón
+búho|lechuza
+pato|ganso
+gallina|gallo
+cisne|pelícano
+loro|tucán
+pingüino|frailecillo
+cuervo|grajo
+paloma|tórtola
+oso|panda
+mono|gorila
+elefante|rinoceronte
+jirafa|cebra
+camello|llama
+canguro|koala
+zorro|coyote
+ciervo|alce
+nutria|castor
+erizo|puercoespín
+pez dorado|carpa
+medusa|estrella de mar
+caracol|babosa
+gusano|oruga
+mariquita|escarabajo
+cigüeña|garza
+pavo real|faisán
+silla|taburete
+sofá|sillón
+mesa|escritorio
+cama|hamaca
+almohada|cojín
+manta|edredón
+cortina|persiana
+alfombra|moqueta
+lámpara|flexo
+ventana|claraboya
+reloj de pared|reloj de pulsera
+nevera|congelador
+horno|microondas
+tostadora|hervidor
+licuadora|batidora
+tenedor|cuchara
+cuchillo|cuchilla
+plato|cuenco
+taza|tazón
+botella|tarro
+olla|sartén
+toalla|albornoz
+jabón|champú
+cepillo de dientes|pasta de dientes
+maquinilla de afeitar|recortadora
+bañera|ducha
+inodoro|bidé
+escoba|fregona
+aspiradora|plumero
+cubo|palangana
+candado|pestillo
+puerta|portón
+escalera de mano|escaleras
+estante|armario
+cajón|cómoda
+paraguas|impermeable
+maleta|mochila
+cartera|monedero
+linterna|antorcha
+pila|cargador
+bombilla|farol
+plancha|vaporizador
+lavadora|lavavajillas
+esponja|cepillo
+cinta adhesiva|pegamento
+clavo|tornillo
+martillo|llave inglesa
+taladro|sierra
+cuerda|cadena
+vaqueros|pantalones
+pantalones cortos|falda
+vestido|traje de noche
+camisa|blusa
+camiseta|camiseta de tirantes
+jersey|cárdigan
+chaqueta|abrigo
+sudadera con capucha|sudadera
+traje|esmoquin
+corbata|pajarita
+bufanda|chal
+guantes|manoplas
+sombrero|gorra
+gorro|boina
+calcetines|medias
+zapatos|botas
+sandalias|chancletas
+zapatillas deportivas|mocasines
+cinturón|tirantes
+pijama|camisón
+bañador|bikini
+gafas de sol|gafas
+collar|pulsera
+anillo|pendiente
+corona|tiara
+delantal|bata
+bolso|maletín
+cremallera|hebilla
+botón|velcro
+casco de moto|casco de obra
+coche|furgoneta
+camión|tractor
+autobús|tranvía
+tren|metro
+bicicleta|patinete
+moto|ciclomotor
+taxi|limusina
+ambulancia|camión de bomberos
+avión|helicóptero
+planeador|paracaídas
+barco|buque
+canoa|kayak
+velero|yate
+ferri|crucero
+lancha|moto acuática
+cohete|nave espacial
+globo|dirigible
+monopatín|patines
+trineo|snowboard
+silla de ruedas|cochecito
+teleférico|ascensor
+escalera mecánica|cinta transportadora
+carretera|sendero
+puente|túnel
+aeropuerto|puerto
+estación|parada de autobús
+aparcamiento|garaje
+semáforo|señal de stop
+gasolina|diésel
+neumático|rueda
+casa|apartamento
+castillo|palacio
+cabaña|choza
+tienda de campaña|iglú
+hotel|hostal
+hospital|clínica
+colegio|universidad
+biblioteca|librería
+museo|galería
+cine|teatro
+restaurante|cafetería
+bar|pub
+panadería|pastelería
+supermercado|mercado
+centro comercial|boutique
+banco|aseguradora
+iglesia|monasterio
+templo|catedral
+cárcel|mazmorra
+comisaría|parque de bomberos
+estadio|arena
+gimnasio|piscina
+parque|jardín
+zoo|acuario
+granja|rancho
+fábrica|almacén
+oficina|estudio
+faro|atalaya
+pirámide|obelisco
+rascacielos|torre
+fuente|surtidor
+cementerio|mausoleo
+camping|caravana
+parque infantil|parque de atracciones
+circo|feria
+casino|salón recreativo
+laboratorio|observatorio
+embajada|consulado
+sótano|buhardilla
+balcón|terraza
+montaña|volcán
+colina|acantilado
+valle|cañón
+río|arroyo
+lago|estanque
+océano|mar
+playa|duna
+desierto|sabana
+bosque|selva
+prado|pradera
+isla|península
+cascada|géiser
+cueva|mina
+glaciar|iceberg
+pantano|marisma
+lluvia|llovizna
+nieve|granizo
+tormenta|huracán
+tornado|torbellino
+trueno|relámpago
+niebla|neblina
+arcoíris|puesta de sol
+sol|luna
+estrella|cometa
+planeta|asteroide
+galaxia|nebulosa
+terremoto|tsunami
+viento|brisa
+flor|maleza
+árbol|arbusto
+rosa|tulipán
+margarita|girasol
+cactus|palmera
+hoja|pétalo
+hierba|musgo
+semilla|bellota
+pino|roble
+fútbol|rugby
+baloncesto|voleibol
+tenis|bádminton
+golf|minigolf
+béisbol|críquet
+hockey|lacrosse
+natación|waterpolo
+surf|windsurf
+esquí|patinaje sobre hielo
+boxeo|lucha libre
+kárate|judo
+esgrima|tiro con arco
+carrera|footing
+maratón|esprint
+ciclismo|triatlón
+yoga|pilates
+gimnasia|ballet
+escalada|senderismo
+pesca|caza
+regata|remo
+bolos|billar
+dardos|pinball
+ajedrez|damas
+póquer|blackjack
+bingo|lotería
+dominó|mahjong
+crucigrama|sudoku
+escondite|pilla-pilla
+tira y afloja|pulso
+cama elástica|columpio
+tobogán|balancín
+frisbi|bumerán
+parapente|dron
+árbitro|juez de línea
+trofeo|medalla
+penalti|tiro libre
+película|documental
+dibujos animados|anime
+cómic|novela
+poema|canción
+periódico|revista
+radio|pódcast
+televisión|proyector
+concierto|festival
+ópera|musical
+guitarra|ukelele
+piano|teclado
+violín|violonchelo
+tambor|pandereta
+trompeta|trombón
+flauta|clarinete
+saxofón|armónica
+micrófono|megáfono
+auriculares|cascos
+baile|fiesta
+magia|ilusión
+chiste|adivinanza
+cuento|leyenda
+actor|cantante
+director|productor
+pintura|dibujo
+escultura|cerámica
+fotografía|selfi
+cámara|videocámara
+escenario|podio
+entrada|abono
+médico|enfermero
+dentista|ortodoncista
+maestro|profesor
+alumno|becario
+policía|detective
+bombero|paramédico
+piloto|astronauta
+marinero|pirata
+soldado|general
+rey|emperador
+reina|princesa
+caballero|samurái
+mago|bruja
+fantasma|zombi
+vampiro|hombre lobo
+dragón|dinosaurio
+ángel|hada
+gigante|enano
+payaso|ilusionista
+cocinero|pastelero
+panadero|carnicero
+granjero|jardinero
+fontanero|electricista
+carpintero|albañil
+pintor|decorador
+abogado|juez
+alcalde|presidente
+banquero|contable
+periodista|reportero
+cowboy|sheriff
+móvil|tableta
+portátil|ordenador de sobremesa
+impresora|escáner
+monitor|webcam
+correo electrónico|mensaje de texto
+sitio web|blog
+aplicación|software
+contraseña|código PIN
+wifi|bluetooth
+internet|intranet
+robot|androide
+satélite|antena
+cable|enchufe
+mando a distancia|joystick
+consola|consola portátil
+virus|bacteria
+hacker|programador
+redes sociales|foro
+videollamada|buzón de voz
+emoji|pegatina
+captura de pantalla|grabación de pantalla
+nube|servidor
+algoritmo|fórmula
+calculadora|ábaco
+reloj inteligente|pulsera de actividad
+GPS|brújula
+mapa|atlas
+microscopio|telescopio
+termómetro|barómetro
+muñeca|tobillo
+brazo|pierna
+dedo|dedo del pie
+codo|rodilla
+hombro|cadera
+cabeza|cráneo
+pelo|barba
+ceja|pestaña
+nariz|barbilla
+boca|mandíbula
+lengua|diente
+corazón|pulmón
+cerebro|columna vertebral
+piel|hueso
+músculo|tendón
+resfriado|gripe
+dolor de cabeza|migraña
+fiebre|tos
+venda|tirita
+vitamina|aspirina
+vacuna|antibiótico
+muletas|bastón
+estetoscopio|jeringuilla
+cumpleaños|aniversario
+boda|compromiso
+funeral|homenaje
+día festivo|vacaciones
+Navidad|Pascua
+Halloween|Acción de Gracias
+regalo|recuerdo
+carta|postal
+sello|sobre
+libro|cuaderno
+diario|memorias
+diccionario|enciclopedia
+bolígrafo|lápiz
+rotulador|marcador fluorescente
+goma|corrector
+regla|transportador
+grapadora|clip
+carpeta|archivador
+calendario|agenda
+alarma|sirena
+sueño|pesadilla
+amor|amistad
+enfado|rabia
+miedo|ansiedad
+alegría|felicidad
+silencio|susurro
+grito|chillido
+risa|carcajada
+llanto|sollozo
+beso|abrazo
+sonrisa|mueca
+guerra|batalla
+paz|tregua
+dinero|moneda
+oro|plata
+diamante|perla
+tesoro|botín

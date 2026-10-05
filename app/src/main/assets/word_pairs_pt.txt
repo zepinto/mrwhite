@@ -1,0 +1,500 @@
+café|chá
+pizza|calzone
+hambúrguer|sanduíche
+manteiga|margarina
+compota|geleia
+mel|melaço
+leite|natas
+queijo|iogurte
+pão|torrada
+croissant|brioche
+panqueca|waffle
+donut|bagel
+bolo|tarte
+queque|muffin
+bolacha|biscoito
+chocolate|caramelo
+gelado|sorbet
+sushi|sashimi
+noodles|esparguete
+arroz|cuscuz
+sopa|guisado
+salada|tabule
+omelete|ovos mexidos
+bacon|presunto
+salsicha|cachorro-quente
+bife|costeletas
+frango|peru
+salmão|atum
+camarão|lagosta
+ostra|amêijoa
+maçã|pera
+laranja|tangerina
+limão|lima
+banana|banana-da-terra
+morango|framboesa
+mirtilo|amora
+uva|passa
+pêssego|alperce
+melancia|melão
+ananás|manga
+amêndoa|avelã
+noz|amendoim
+batata|batata-doce
+tomate|beterraba
+cebola|alho
+cenoura|rabanete
+pepino|curgete
+brócolos|couve-flor
+espinafres|alface
+milho|pipocas
+cogumelo|trufa
+azeitona|alcaparra
+ketchup|mostarda
+maionese|aioli
+vinagre|molho de soja
+sal|pimenta
+açúcar|adoçante
+canela|noz-moscada
+manjericão|salsa
+piri-piri|colorau
+cerveja|sidra
+vinho|champanhe
+uísque|rum
+vodka|gin
+cocktail|smoothie
+limonada|chá gelado
+sumo de laranja|sumo de maçã
+refrigerante|água com gás
+chocolate quente|batido
+bica|cappuccino
+batatas fritas|crackers
+pretzel|palitos de pão
+burrito|taco
+lasanha|ravioli
+dumpling|rolinho primavera
+caril|chili con carne
+kebab|gyros
+pudim|creme
+marshmallow|algodão doce
+pastilha elástica|toffee
+cão|lobo
+gato|tigre
+leão|leopardo
+cavalo|burro
+vaca|búfalo
+ovelha|cabra
+porco|javali
+coelho|lebre
+rato|hamster
+ratazana|toupeira
+rã|sapo
+tartaruga|cágado
+crocodilo|aligátor
+cobra|lagarto
+golfinho|orca
+tubarão|raia
+foca|morsa
+polvo|lula
+caranguejo|lagostim
+abelha|vespa
+borboleta|traça
+formiga|térmita
+mosca|mosquito
+águia|falcão
+coruja|mocho
+pato|ganso
+galinha|galo
+cisne|pelicano
+papagaio|tucano
+pinguim|papagaio-do-mar
+corvo|gralha
+pombo|rola
+urso|panda
+macaco|gorila
+elefante|rinoceronte
+girafa|zebra
+camelo|dromedário
+canguru|coala
+raposa|coiote
+veado|alce
+lontra|castor
+ouriço|porco-espinho
+peixe-dourado|carpa
+alforreca|estrela-do-mar
+caracol|lesma
+minhoca|lagarta
+joaninha|escaravelho
+cegonha|garça
+pavão|faisão
+cadeira|pufe
+sofá|cadeirão
+mesa|secretária
+cama|rede
+almofada|travesseiro
+cobertor|edredão
+cortina|estore
+alcatifa|tapete
+candeeiro|lustre
+janela|clarabóia
+relógio de parede|relógio de pulso
+frigorífico|congelador
+forno|micro-ondas
+torradeira|chaleira
+liquidificadora|batedeira
+garfo|colher
+faca|cutelo
+prato|tigela
+chávena|caneca
+garrafa|frasco
+panela|frigideira
+toalha|roupão
+sabonete|champô
+escova de dentes|pasta de dentes
+gilete|máquina de barbear
+banheira|duche
+sanita|bidé
+vassoura|esfregona
+aspirador|espanador
+balde|bacia
+cadeado|trinco
+porta|portão
+escada de mão|escadas
+prateleira|armário
+gaveta|cómoda
+guarda-chuva|impermeável
+mala|mochila
+carteira|porta-moedas
+lanterna|tocha
+pilha|carregador
+lâmpada|lampião
+ferro de engomar|ferro de soldar
+máquina de lavar roupa|máquina de lavar loiça
+esponja|escova
+fita-cola|cola
+prego|parafuso
+martelo|chave inglesa
+berbequim|serra
+corda|corrente
+jeans|calças
+calções|saia
+vestido|vestido de noite
+camisa|blusa
+t-shirt|top
+camisola|casaco de malha
+casaco|sobretudo
+camisola com capuz|sweatshirt
+fato|smoking
+gravata|laço
+cachecol|xaile
+luvas|mitenes
+chapéu|boné
+gorro|boina
+meias|collants
+sapatos|botas
+sandálias|chinelos
+sapatilhas|mocassins
+cinto|suspensórios
+pijama|camisa de dormir
+fato de banho|biquíni
+óculos de sol|óculos
+colar|pulseira
+anel|brinco
+coroa|tiara
+avental|bata
+mala de mão|pasta
+fecho|fivela
+botão|velcro
+capacete de moto|capacete de obra
+carro|carrinha
+camião|trator
+autocarro|elétrico
+comboio|metro
+bicicleta|trotinete
+mota|motoreta
+táxi|limusina
+ambulância|camião de bombeiros
+avião|helicóptero
+planador|paraquedas
+barco|navio
+canoa|caiaque
+veleiro|iate
+ferry|cruzeiro
+lancha|mota de água
+foguetão|nave espacial
+balão|zepelim
+skate|patins
+trenó|snowboard
+cadeira de rodas|carrinho de bebé
+teleférico|elevador
+escada rolante|tapete rolante
+estrada|caminho
+ponte|túnel
+aeroporto|porto
+estação|paragem de autocarro
+parque de estacionamento|garagem
+semáforo|sinal de stop
+gasolina|gasóleo
+pneu|roda
+casa|apartamento
+castelo|palácio
+cabana|choupana
+tenda|iglu
+hotel|hostel
+hospital|clínica
+escola|universidade
+biblioteca|livraria
+museu|galeria
+cinema|teatro
+restaurante|snack-bar
+bar|pub
+padaria|pastelaria
+supermercado|mercado
+centro comercial|boutique
+banco|seguradora
+igreja|mosteiro
+templo|catedral
+prisão|masmorra
+esquadra|quartel dos bombeiros
+estádio|arena
+ginásio|piscina
+parque|jardim
+jardim zoológico|aquário
+quinta|rancho
+fábrica|armazém
+escritório|estúdio
+farol|atalaia
+pirâmide|obelisco
+arranha-céus|torre
+fonte|estátua
+cemitério|mausoléu
+parque de campismo|resort
+parque infantil|parque de diversões
+circo|feira
+casino|salão de jogos
+laboratório|observatório
+embaixada|consulado
+cave|sótão
+varanda|terraço
+montanha|vulcão
+colina|falésia
+vale|desfiladeiro
+rio|ribeiro
+lago|lagoa
+oceano|mar
+praia|duna
+deserto|savana
+floresta|selva
+prado|pradaria
+ilha|península
+cascata|géiser
+gruta|mina
+glaciar|icebergue
+pântano|sapal
+chuva|chuvisco
+neve|granizo
+tempestade|furacão
+tornado|remoinho
+trovão|relâmpago
+nevoeiro|neblina
+arco-íris|pôr do sol
+sol|lua
+estrela|cometa
+planeta|asteroide
+galáxia|nebulosa
+terramoto|tsunami
+vento|brisa
+flor|erva daninha
+árvore|arbusto
+rosa|tulipa
+margarida|girassol
+cacto|palmeira
+folha|pétala
+relva|musgo
+semente|bolota
+pinheiro|carvalho
+futebol|râguebi
+basquetebol|voleibol
+ténis|badmínton
+golfe|minigolfe
+basebol|críquete
+hóquei|lacrosse
+natação|saltos para a água
+surf|windsurf
+esqui|patinagem no gelo
+boxe|luta livre
+karaté|judo
+esgrima|tiro com arco
+corrida|jogging
+maratona|sprint
+ciclismo|triatlo
+ioga|pilates
+ginástica|ballet
+escalada|caminhada
+pesca|caça
+navegação à vela|remo
+bowling|bilhar
+dardos|flipper
+xadrez|damas
+póquer|blackjack
+bingo|lotaria
+dominó|mahjong
+palavras cruzadas|sudoku
+escondidas|apanhada
+jogo da corda|braço de ferro
+trampolim|baloiço
+escorrega|balancé
+frisbee|bumerangue
+papagaio de papel|drone
+árbitro|fiscal de linha
+troféu|medalha
+penálti|livre
+filme|documentário
+desenho animado|anime
+banda desenhada|romance
+poema|canção
+jornal|revista
+rádio|podcast
+televisão|projetor
+concerto|festival
+ópera|musical
+guitarra|ukulele
+piano|teclado
+violino|violoncelo
+tambor|pandeireta
+trompete|trombone
+flauta|clarinete
+saxofone|harmónica
+microfone|megafone
+auscultadores|auriculares
+dança|festa
+magia|ilusão
+piada|adivinha
+história|lenda
+ator|cantor
+realizador|produtor
+pintura|desenho
+escultura|cerâmica
+fotografia|selfie
+máquina fotográfica|câmara de filmar
+palco|pódio
+bilhete|senha
+médico|enfermeiro
+dentista|ortodontista
+professor|catedrático
+aluno|doutorando
+polícia|detetive
+bombeiro|paramédico
+piloto|astronauta
+marinheiro|pirata
+soldado|general
+rei|imperador
+rainha|princesa
+cavaleiro|samurai
+mago|bruxa
+fantasma|zombie
+vampiro|lobisomem
+dragão|dinossauro
+anjo|fada
+gigante|anão
+palhaço|mágico
+cozinheiro|empregado de mesa
+padeiro|talhante
+agricultor|jardineiro
+canalizador|eletricista
+carpinteiro|pedreiro
+pintor|decorador
+advogado|juiz
+presidente da câmara|presidente
+banqueiro|contabilista
+jornalista|repórter
+cowboy|xerife
+telemóvel|tablet
+portátil|computador de secretária
+impressora|scanner
+monitor|webcam
+email|mensagem de texto
+website|blogue
+aplicação|software
+palavra-passe|código PIN
+wifi|bluetooth
+internet|intranet
+robô|androide
+satélite|antena
+cabo|ficha
+telecomando|joystick
+consola|consola portátil
+vírus|bactéria
+hacker|programador
+redes sociais|fórum
+videochamada|correio de voz
+emoji|autocolante
+captura de ecrã|gravação de ecrã
+nuvem|servidor
+algoritmo|fórmula
+calculadora|ábaco
+smartwatch|pulseira de atividade
+GPS|bússola
+mapa|atlas
+microscópio|telescópio
+termómetro|barómetro
+pulso|tornozelo
+braço|perna
+dedo|dedo do pé
+cotovelo|joelho
+ombro|anca
+cabeça|crânio
+cabelo|barba
+sobrancelha|pestana
+nariz|queixo
+boca|maxilar
+língua|dente
+coração|pulmão
+cérebro|coluna vertebral
+pele|osso
+músculo|tendão
+constipação|gripe
+dor de cabeça|enxaqueca
+febre|tosse
+ligadura|penso rápido
+vitamina|aspirina
+vacina|antibiótico
+muletas|bengala
+estetoscópio|seringa
+aniversário|aniversário de casamento
+casamento|noivado
+funeral|homenagem
+feriado|férias
+Natal|Páscoa
+Halloween|Carnaval
+presente|lembrança
+carta|postal
+selo|envelope
+livro|caderno
+diário|memórias
+dicionário|enciclopédia
+caneta|lápis
+marcador|marcador de texto
+borracha|corretor
+régua|transferidor
+agrafador|clipe
+capa|dossiê
+calendário|agenda
+alarme|sirene
+sonho|pesadelo
+amor|amizade
+raiva|fúria
+medo|ansiedade
+alegria|felicidade
+silêncio|sussurro
+grito|berro
+riso|gargalhada
+choro|soluço
+beijo|abraço
+sorriso|careta
+guerra|batalha
+paz|trégua
+dinheiro|moeda
+ouro|prata
+diamante|pérola
+tesouro|prémio
